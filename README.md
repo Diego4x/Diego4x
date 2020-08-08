@@ -6,4 +6,4 @@ Já fiz projetos em javascript node js e vuejs
 
 Siga me nas redes sociais.
 
-[LinkedIn](http://www.linkedin.com/diego-francisco-4x)
+[LinkedIn](http://www.linkedin.com/in/diego-francisco-4x)
