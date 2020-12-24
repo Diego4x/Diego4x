@@ -1,8 +1,15 @@
-## Hello World
+### Hi 👋
 
-Sou Diego Francisco apaixonado por programação e tecnologia programo e estudo Programação dês do meus 13 anos 
-Por enquanto estou estudando react, react Native, typescript
-Já fiz projetos em javascript node js e vuejs 
+Meu nome é Diego Francisco sou apaixonado por programação e tecnologia procurando sempre aprender mais e evoluir minha carreira como dev
 
-[LinkedIn](http://www.linkedin.com/in/diego-francisco-4x)
+atualmente estudando :
+- react
+- vue
+- node
 
+​![Anurag's github stats](https://github-readme-stats.vercel.app/aapi?diego4x=anuraghazra&show_icons=true&theme=radical​)
+
+
+[YOUR github stats](https://github-readme-stats.vercel.app/api?username=diego4x)
+
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/diego44x)[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/diego-francisco-4x) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/diego44x/)
