@@ -7,7 +7,7 @@ atualmente estudando :
 - vue
 - node
 
-​![Anurag's github stats](https://github-readme-stats.vercel.app/aapi?username=diego4x_icons=true&theme=radical​)
+​[![Anurag's github stats](https://github-readme-stats.vercel.app/api​?username=diego4x)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [YOUR github stats](https://github-readme-stats.vercel.app/api?username=diego4x)
