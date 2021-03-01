@@ -1,11 +1,11 @@
-### Hi 👋
+### Hello 👋
 
-Meu nome é Diego Francisco sou apaixonado por programação e tecnologia procurando sempre aprender mais e evoluir minha carreira como dev
+Meu nome é Diego Francisco sou apaixonado por programação e tecnologia procurando sempre aprender mais e evoluir na minha carreira como dev 👨‍💻 ❤️
 
 atualmente estudando :
-- react
-- vue
-- node
+- Node/javascript
+- React
+- Vue
 
  [![Anurag'sgithubstats](https://github-readme-stats.vercel.app/api?username=diego4x&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
